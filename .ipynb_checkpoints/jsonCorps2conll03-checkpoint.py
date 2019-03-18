@@ -34,7 +34,6 @@ def buildCorp(rowIndex, count, keyword, text, label, pipeName, nlp, out):
                 else:
                     out.write(f"{token.orth_} {token.pos_} - O\n")
             out.write("\n")
-            
 def build_conll_03(df, keyfield, textfield, label, outfile):
     print(f"writing {outfile} ...")
     ruler_name= 'custom'

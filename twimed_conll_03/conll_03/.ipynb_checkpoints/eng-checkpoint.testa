@@ -1,0 +1,22 @@
+-DOCSTART- -X- - O
+
+Six CD - B-TIME
+hours NNS - I-TIME
+sleep NOUN - O
+, PUNCT - O
+best ADJ - O
+sleep NOUN - O
+i PRON - O
+have VERB - O
+had VERB - O
+in ADP - O
+two CD - B-DATE
+weeks NNS - I-DATE
+thank VERB - O
+you PRON - O
+olanzapine ADV - O
+bipolar ADJ - O
+meds NOUN - O
+
+ SPACE - O
+
